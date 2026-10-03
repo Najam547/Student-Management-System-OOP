@@ -15,7 +15,15 @@ A Python-based Student Management System CLI developed using Object-Oriented Pro
 
 ## Technologies
 
-Python • JSON • OOP • File Handling • Exception Handling
+Python • JSON • OOP • File Handling • Exception Handling 
+
+## How It Works
+
+1. Add a student
+2. Display all students
+3. Search for a student
+4. Delete a student
+5. Store student data in a JSON file
 
 ## Developer
 
